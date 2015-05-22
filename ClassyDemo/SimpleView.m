@@ -30,6 +30,8 @@
         
         [self addSubview:view1];
         [self addSubview:view2];
+        
+        //masonry
     }
     return self;
 }
