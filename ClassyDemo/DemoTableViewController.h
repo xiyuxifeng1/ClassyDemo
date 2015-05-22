@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DemoTableViewController.h
 //  ClassyDemo
 //
 //  Created by wang hui on 15/5/19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DemoTableViewController : UITableViewController
 
 @end
-
